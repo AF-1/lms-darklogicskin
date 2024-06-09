@@ -255,6 +255,6 @@ input[type='radio']:checked {
 	background: linear-gradient(transparent 35px, #262626) !important;
 }
 
-.pluginFooter img {
+.pluginFooter img, .headerLabel img {
 	filter: invert(97%) sepia(1%) saturate(1490%) hue-rotate(265deg) brightness(118%) contrast(73%);
 }
