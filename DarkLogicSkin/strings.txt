@@ -5,4 +5,4 @@ PLUGIN_DARKLOGICSKIN
 	EN	Dark Logic
 
 PLUGIN_DARKLOGICSKIN_DESC
-	EN	Dark-themed version of the LMS Logic Teal skin. More information on the GitHub page.
+	EN	Dark-themed version of the LMS Logic Teal skin.
