@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<extension>
+	<id>af21ce7f-3c03-45cb-f662-8b6200c06b50</id>
+	<name>PLUGIN_DARKLOGICSKIN</name>
+	<module>Plugins::DarkLogicSkin::Plugin</module>
+	<version>1.0.0</version>
+	<description>PLUGIN_DARKLOGICSKIN_DESC</description>
+	<creator>AF</creator>
+	<homepageURL>https://github.com/AF-1/lms-darklogicskin</homepageURL>
+	<icon></icon>
+	<defaultState>enabled</defaultState>
+	<targetApplication>
+		<id>Lyrion Music Server</id>
+		<minVersion>9.0</minVersion>
+		<maxVersion>*</maxVersion>
+	</targetApplication>
+</extension>
