@@ -1,4 +1,43 @@
 /***************************************************************/
+/**********************  img replacements  *********************/
+/***************************************************************/
+
+.btn-power button {
+	background-image: url('html/images/btn_power_on.gif')
+}
+
+.btn-power-off button {
+	background-image: url('html/images/btn_power.gif')
+}
+
+.btn-repeat-1 button {
+	background-image: url('html/images/btn_repeat_song.gif')
+}
+
+.btn-repeat-2 button {
+	background-image: url('html/images/btn_repeat_playlist.gif')
+}
+
+.btn-shuffle-1 button {
+	background-image: url('html/images/btn_shuffle_song.gif')
+}
+
+.btn-shuffle-2 button {
+	background-image: url('html/images/btn_shuffle_album.gif')
+}
+
+.x-window .x-window-tl, .x-panel-ghost .x-window-tl,
+.x-window .x-window-tr, .x-panel-ghost .x-window-tr,
+.x-window .x-window-header, .x-panel-ghost .x-window-header {
+	background-image: url('html/images/slim-ext/hd-sprite.gif');
+}
+
+.x-panel-ghost ul, .x-window-bwrap {
+	background-image: url('html/images/slim-ext/dlg-bg.gif');
+}
+
+
+/***************************************************************/
 /**********************  Dark Logic Skin  **********************/
 /***************************************************************/
 
