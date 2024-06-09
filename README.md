@@ -2,7 +2,7 @@ Dark Logic Skin
 ====
 
 
-Just like the LMS *Logic Teal* skin, but some UI elements have darker colors.<br><br>
+Based on the LMS *Logic Teal* skin, but some UI elements have darker colors.<br><br>
 ⚠️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).
 <br>
 
