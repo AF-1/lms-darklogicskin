@@ -374,6 +374,7 @@ input[type='radio']:checked {
 .settings .buttonbar {
 	padding: 6px 13px 0px;
 }
-.x-btn-mr {
-	width: 40px;
+
+#pluginButtonBar #filterChooser {
+	padding-right: 30px;
 }
