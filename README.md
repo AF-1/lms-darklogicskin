@@ -15,7 +15,7 @@ Based on the LMS *Logic Teal* skin, but some UI elements have darker colors.<br>
 
 ## Requirements
 
-- LMS version **>=** 9
+- LMS version >= **9**.0
 
 <br><br>
 
