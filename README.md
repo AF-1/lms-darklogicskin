@@ -23,7 +23,7 @@ It's only about the **colors** of the UI elements, **not** about adding or (re)m
 
 * **Dark Logic Skin** is available from the LMS plugin library: **LMS > Settings > Manage Plugins**.<br>
 
-* Once the plugin is installed, go to *LMS* > *Settings* > *Interface*, select **Dark Logic** and click *Apply*.
+* Once the plugin is installed, go to `LMS > Settings > Interface`, select `Dark Logic` and click *Apply*.
 
 * Don't forget to **clear your browser cache**.
 
