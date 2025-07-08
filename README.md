@@ -1,9 +1,11 @@
 Dark Logic Skin
 ====
-
+![Min. LMS Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FAF-1%2Fsobras%2Fmain%2Frepos%2Flms%2Fpublic.xml&query=%2F%2F*%5Blocal-name()%3D'plugin'%20and%20%40name%3D'DarkLogicSkin'%5D%2F%40minTarget&prefix=v&label=Min.%20LMS%20Version%20Required&color=darkgreen)<br>
 
 Based on the LMS *Logic Teal* skin, but some UI elements have darker colors.<br><br>
-⚠️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).
+
+> [!IMPORTANT]
+>️ Please **clear your browser cache** after switching or updating web skins and **reload** the browser page (multiple times if necessary).
 <br>
 
 [⬅️ **Back to the list of all plugins**](https://github.com/AF-1/)
@@ -11,13 +13,6 @@ Based on the LMS *Logic Teal* skin, but some UI elements have darker colors.<br>
 **Use the** &nbsp; <img src="screenshots/menuicon.png" width="30"> &nbsp;**icon** (top right) to **jump directly to a specific section.**
 
 <br><br><br>
-
-
-## Requirements
-
-- LMS version >= **9**.0
-
-<br><br>
 
 ## What it is and what it is not
 The only purpose of *Dark Logic Skin* is to provide a dark-themed version of the *LMS Logic Teal skin* where some UI elements have darker colors.<br>
