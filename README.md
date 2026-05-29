@@ -33,7 +33,7 @@ It's only about the **colors** of the UI elements, **not** about adding or (re)m
 ## Report a new issue
 
 To report a new issue please file a GitHub [**issue report**](https://github.com/AF-1/lms-darklogicskin/issues/new/choose).
-<br><br>
+<br><br><br>
 
 ---
 
